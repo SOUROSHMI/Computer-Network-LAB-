@@ -1,0 +1,1 @@
+This repository contains my lab work for the Computer Networks course as part of my Computer Engineering program. It includes experiments, implementations, and practice programs that focus on understanding network protocols, communication models, socket programming, and real-world networking concepts.
